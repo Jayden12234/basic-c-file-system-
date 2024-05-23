@@ -1,2 +1,6 @@
-# basic-c-file-system-
-a simple read and write file system written in c this repository is designed to show how a file system works and with a tutorial on how to build a similar one 
+#a simple rust filesystem
+
+this repository aims to be a building block for homebrew computers by having an example of a filesystem
+and having an indepth guide of the elements of a filesystem and how to make them
+and showing how to perfrom when dealing with low level system desgin by using a custom character table 
+with reffering to it by binary lookup
